@@ -1,0 +1,5 @@
+{
+  "name": "DataStory AI - CSV to Narrative",
+  "description": "เว็บแอปพลิเคชันสำหรับแปลงข้อมูล CSV ให้เป็นเรื่องเล่าและรายงานสรุปด้วย Gemini API",
+  "requestFramePermissions": []
+}
